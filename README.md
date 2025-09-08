@@ -15,8 +15,8 @@
 ---
 
 ### 🖥️ I Code In  
-<p>
-### 🖥️ I Code In  
+
+ 
 <p>
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png"/>  
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>  
@@ -25,13 +25,11 @@
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/>  
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/react-native.png"/>    
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>        
-<img height="50" width="50" src="https://img.icons8.com/external-flat-juicy-fish/60/external-ai-artificial-intelligence-flat-flat-juicy-fish.png" title="Computer Vision"/>  
-<img height="50" width="50" src="https://img.icons8.com/external-flat-juicy-fish/60/external-nlp-natural-language-processing-flat-flat-juicy-fish.png" title="NLP"/>  
 <img height="50" width="50" src="https://img.icons8.com/external-flat-juicy-fish/60/external-iot-internet-of-things-flat-flat-juicy-fish.png" title="IoT"/>  
 </p>
  
 
-</p>
+
 
 ---
 
@@ -45,7 +43,6 @@
 <img height="50" width="50" src="https://img.icons8.com/color/480/null/notion--v1.png"/>  
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/figma--v1.png"/>  
 <img height="50" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>  
-<img height="50" src="https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=Adobe%20XD&logoColor=white"/>  
 </p>
 
 ---
