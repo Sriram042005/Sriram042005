@@ -3,18 +3,20 @@
 </div>
 <br>
  
-
 🎓 BCA Student specializing in **Artificial Intelligence**  
-* 🌐 Here's my [portfolio](https://sriram-portfolio-08.lovable.app/)  
-* 💻 I’m currently learning **Backend Development**  
-* 🌍 Languages: **English, Tamil, German (Intermediate)**  
+ 💻 Currently learning **Backend Development**  
+🌍 Languages: **English, Tamil, German (Intermediate)**  
+🎯 2025 Goal: Master **Full-Stack Development**  
+🎉 Fun Fact: I love turning complex problems into simple solutions  
+📧 [Email Me](sriram8248196342@gmai.com) 
+🌐 [Portfolio](https://sriram-portfolio-08.lovable.app/) 
 
 ---
 
 ### 🌐 Social Presence  
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/sriram-y-2246192b1?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bh6dEW%2BJCTtueRPQ3OSEAVA%3D%3D)  
-[<img src="https://img.shields.io/badge/Instagram-d62976?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/ram_._s?igsh=MWQ1dGV0MGs4ZXYzeA%3D%3D&utm_source=qr) 
-[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](sriram8248196342@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-username/)
+
+
 
 ---
 
