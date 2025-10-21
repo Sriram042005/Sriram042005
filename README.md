@@ -1,9 +1,13 @@
-## Hi there 👋 It's me Sriram  
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&duration=4000&pause=1000&color=006400&center=true&vCenter=true&width=1400&lines=Hi+there%2C+I'm+SRIRAM+%F0%9F%91%8B;A+passionate+Coder%2C+Developer%2C+and+Tech+Enthusiast" alt="Typing SVG" />
+</div>
+<br>
+ 
 
 🎓 BCA Student specializing in **Artificial Intelligence**  
-- 🌐 Here's my [portfolio](https://sriram-portfolio-08.lovable.app/)  
-- 💻 I’m currently learning **Backend Development**  
-- 🌍 Languages: **English, Tamil, German (Intermediate)**  
+* 🌐 Here's my [portfolio](https://sriram-portfolio-08.lovable.app/)  
+* 💻 I’m currently learning **Backend Development**  
+* 🌍 Languages: **English, Tamil, German (Intermediate)**  
 
 ---
 
@@ -52,5 +56,3 @@
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Sriram042005?theme=dark&font=Nanum%20Myeongjo&ext=heatmap&site=cn)  
 
 [![Sriram's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Sriram042005&bg_color=293036&color=ffffff&line=9ecbff&point=f97583&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)  
-
----
